@@ -150,9 +150,11 @@ kubectl apply -f k8s-deployment.yaml
 ✅ Your API is now live in production!
 
 🎯 Final Summary
+```
 🛠 GraphQL API for E-commerce
 🚀 Apollo Server + PostgreSQL + Prisma
 🔐 Secure Authentication
 📦 Dockerized Deployment
 ☁ Can be deployed on AWS/GCP/Kubernetes
 💬 Feel free to contribute and improve the project! 😊
+```
